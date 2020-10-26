@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600629785 source:c:\users\usuario\documents\cworkspace\segundo_practico\eje1.c
+
+1600725767 source:c:\users\usuario\documents\cworkspace\segundo_practico\eje5.c
+	<stdio.h>
+	<stdlib.h>
+
+1600725569 source:c:\users\usuario\documents\cworkspace\segundo_practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"eje5.c"
+
+1600725579 c:\users\usuario\documents\cworkspace\segundo_practico\eje5.c
+	<stdio.h>
+	<stdlib.h>
+
